@@ -78,7 +78,7 @@ print(response.choices[0].message["content"])
 
 ## 📎 Colab Link
 
-[👉 Try it on Google Colab](https://colab.research.google.com/drive/16YmzSBoxuSpw8l6x025AP30zXShimNFZ#scrollTo=WmEQpFAtvD6s)
+[👉 Try it on Google Colab](https://colab.research.google.com/drive/16YmzSBoxuSpw8l6x025AP30zXShimNFZ?usp=sharing)
 
 ---
 
